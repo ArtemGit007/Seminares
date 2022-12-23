@@ -1,0 +1,15 @@
+C:\Users\Артем\OneDrive\Семинары\Семинар 3 С#\Задание 22\bin\Debug\net7.0\Задание 22.exe
+C:\Users\Артем\OneDrive\Семинары\Семинар 3 С#\Задание 22\bin\Debug\net7.0\Задание 22.deps.json
+C:\Users\Артем\OneDrive\Семинары\Семинар 3 С#\Задание 22\bin\Debug\net7.0\Задание 22.runtimeconfig.json
+C:\Users\Артем\OneDrive\Семинары\Семинар 3 С#\Задание 22\bin\Debug\net7.0\Задание 22.dll
+C:\Users\Артем\OneDrive\Семинары\Семинар 3 С#\Задание 22\bin\Debug\net7.0\Задание 22.pdb
+C:\Users\Артем\OneDrive\Семинары\Семинар 3 С#\Задание 22\obj\Debug\net7.0\Задание 22.csproj.AssemblyReference.cache
+C:\Users\Артем\OneDrive\Семинары\Семинар 3 С#\Задание 22\obj\Debug\net7.0\Задание 22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\OneDrive\Семинары\Семинар 3 С#\Задание 22\obj\Debug\net7.0\Задание 22.AssemblyInfoInputs.cache
+C:\Users\Артем\OneDrive\Семинары\Семинар 3 С#\Задание 22\obj\Debug\net7.0\Задание 22.AssemblyInfo.cs
+C:\Users\Артем\OneDrive\Семинары\Семинар 3 С#\Задание 22\obj\Debug\net7.0\Задание 22.csproj.CoreCompileInputs.cache
+C:\Users\Артем\OneDrive\Семинары\Семинар 3 С#\Задание 22\obj\Debug\net7.0\Задание 22.dll
+C:\Users\Артем\OneDrive\Семинары\Семинар 3 С#\Задание 22\obj\Debug\net7.0\refint\Задание 22.dll
+C:\Users\Артем\OneDrive\Семинары\Семинар 3 С#\Задание 22\obj\Debug\net7.0\Задание 22.pdb
+C:\Users\Артем\OneDrive\Семинары\Семинар 3 С#\Задание 22\obj\Debug\net7.0\Задание 22.genruntimeconfig.cache
+C:\Users\Артем\OneDrive\Семинары\Семинар 3 С#\Задание 22\obj\Debug\net7.0\ref\Задание 22.dll

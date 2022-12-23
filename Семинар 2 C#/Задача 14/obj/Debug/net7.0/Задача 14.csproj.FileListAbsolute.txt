@@ -1,0 +1,15 @@
+C:\Users\Артем\OneDrive\Семинары\Семинар 2 C#\Задача 14\obj\Debug\net7.0\Задача 14.csproj.AssemblyReference.cache
+C:\Users\Артем\OneDrive\Семинары\Семинар 2 C#\Задача 14\obj\Debug\net7.0\Задача 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\OneDrive\Семинары\Семинар 2 C#\Задача 14\obj\Debug\net7.0\Задача 14.AssemblyInfoInputs.cache
+C:\Users\Артем\OneDrive\Семинары\Семинар 2 C#\Задача 14\obj\Debug\net7.0\Задача 14.AssemblyInfo.cs
+C:\Users\Артем\OneDrive\Семинары\Семинар 2 C#\Задача 14\obj\Debug\net7.0\Задача 14.csproj.CoreCompileInputs.cache
+C:\Users\Артем\OneDrive\Семинары\Семинар 2 C#\Задача 14\bin\Debug\net7.0\Задача 14.exe
+C:\Users\Артем\OneDrive\Семинары\Семинар 2 C#\Задача 14\bin\Debug\net7.0\Задача 14.deps.json
+C:\Users\Артем\OneDrive\Семинары\Семинар 2 C#\Задача 14\bin\Debug\net7.0\Задача 14.runtimeconfig.json
+C:\Users\Артем\OneDrive\Семинары\Семинар 2 C#\Задача 14\bin\Debug\net7.0\Задача 14.dll
+C:\Users\Артем\OneDrive\Семинары\Семинар 2 C#\Задача 14\bin\Debug\net7.0\Задача 14.pdb
+C:\Users\Артем\OneDrive\Семинары\Семинар 2 C#\Задача 14\obj\Debug\net7.0\Задача 14.dll
+C:\Users\Артем\OneDrive\Семинары\Семинар 2 C#\Задача 14\obj\Debug\net7.0\refint\Задача 14.dll
+C:\Users\Артем\OneDrive\Семинары\Семинар 2 C#\Задача 14\obj\Debug\net7.0\Задача 14.pdb
+C:\Users\Артем\OneDrive\Семинары\Семинар 2 C#\Задача 14\obj\Debug\net7.0\Задача 14.genruntimeconfig.cache
+C:\Users\Артем\OneDrive\Семинары\Семинар 2 C#\Задача 14\obj\Debug\net7.0\ref\Задача 14.dll

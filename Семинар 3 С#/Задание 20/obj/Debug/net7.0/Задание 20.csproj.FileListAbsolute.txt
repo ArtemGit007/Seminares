@@ -1,0 +1,15 @@
+C:\Users\Артем\OneDrive\Семинары\Семинар 3 С#\Задание 20\bin\Debug\net7.0\Задание 20.exe
+C:\Users\Артем\OneDrive\Семинары\Семинар 3 С#\Задание 20\bin\Debug\net7.0\Задание 20.deps.json
+C:\Users\Артем\OneDrive\Семинары\Семинар 3 С#\Задание 20\bin\Debug\net7.0\Задание 20.runtimeconfig.json
+C:\Users\Артем\OneDrive\Семинары\Семинар 3 С#\Задание 20\bin\Debug\net7.0\Задание 20.dll
+C:\Users\Артем\OneDrive\Семинары\Семинар 3 С#\Задание 20\bin\Debug\net7.0\Задание 20.pdb
+C:\Users\Артем\OneDrive\Семинары\Семинар 3 С#\Задание 20\obj\Debug\net7.0\Задание 20.csproj.AssemblyReference.cache
+C:\Users\Артем\OneDrive\Семинары\Семинар 3 С#\Задание 20\obj\Debug\net7.0\Задание 20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\OneDrive\Семинары\Семинар 3 С#\Задание 20\obj\Debug\net7.0\Задание 20.AssemblyInfoInputs.cache
+C:\Users\Артем\OneDrive\Семинары\Семинар 3 С#\Задание 20\obj\Debug\net7.0\Задание 20.AssemblyInfo.cs
+C:\Users\Артем\OneDrive\Семинары\Семинар 3 С#\Задание 20\obj\Debug\net7.0\Задание 20.csproj.CoreCompileInputs.cache
+C:\Users\Артем\OneDrive\Семинары\Семинар 3 С#\Задание 20\obj\Debug\net7.0\Задание 20.dll
+C:\Users\Артем\OneDrive\Семинары\Семинар 3 С#\Задание 20\obj\Debug\net7.0\refint\Задание 20.dll
+C:\Users\Артем\OneDrive\Семинары\Семинар 3 С#\Задание 20\obj\Debug\net7.0\Задание 20.pdb
+C:\Users\Артем\OneDrive\Семинары\Семинар 3 С#\Задание 20\obj\Debug\net7.0\Задание 20.genruntimeconfig.cache
+C:\Users\Артем\OneDrive\Семинары\Семинар 3 С#\Задание 20\obj\Debug\net7.0\ref\Задание 20.dll

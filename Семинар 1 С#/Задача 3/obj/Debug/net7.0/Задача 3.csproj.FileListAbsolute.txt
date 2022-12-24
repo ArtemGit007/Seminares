@@ -1,0 +1,15 @@
+C:\Users\Артем\OneDrive\Семинары\Семинар 1 С#\Задача 3\obj\Debug\net7.0\Задача 3.csproj.AssemblyReference.cache
+C:\Users\Артем\OneDrive\Семинары\Семинар 1 С#\Задача 3\obj\Debug\net7.0\Задача 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\OneDrive\Семинары\Семинар 1 С#\Задача 3\obj\Debug\net7.0\Задача 3.AssemblyInfoInputs.cache
+C:\Users\Артем\OneDrive\Семинары\Семинар 1 С#\Задача 3\obj\Debug\net7.0\Задача 3.AssemblyInfo.cs
+C:\Users\Артем\OneDrive\Семинары\Семинар 1 С#\Задача 3\obj\Debug\net7.0\Задача 3.csproj.CoreCompileInputs.cache
+C:\Users\Артем\OneDrive\Семинары\Семинар 1 С#\Задача 3\bin\Debug\net7.0\Задача 3.exe
+C:\Users\Артем\OneDrive\Семинары\Семинар 1 С#\Задача 3\bin\Debug\net7.0\Задача 3.deps.json
+C:\Users\Артем\OneDrive\Семинары\Семинар 1 С#\Задача 3\bin\Debug\net7.0\Задача 3.runtimeconfig.json
+C:\Users\Артем\OneDrive\Семинары\Семинар 1 С#\Задача 3\bin\Debug\net7.0\Задача 3.dll
+C:\Users\Артем\OneDrive\Семинары\Семинар 1 С#\Задача 3\bin\Debug\net7.0\Задача 3.pdb
+C:\Users\Артем\OneDrive\Семинары\Семинар 1 С#\Задача 3\obj\Debug\net7.0\Задача 3.dll
+C:\Users\Артем\OneDrive\Семинары\Семинар 1 С#\Задача 3\obj\Debug\net7.0\refint\Задача 3.dll
+C:\Users\Артем\OneDrive\Семинары\Семинар 1 С#\Задача 3\obj\Debug\net7.0\Задача 3.pdb
+C:\Users\Артем\OneDrive\Семинары\Семинар 1 С#\Задача 3\obj\Debug\net7.0\Задача 3.genruntimeconfig.cache
+C:\Users\Артем\OneDrive\Семинары\Семинар 1 С#\Задача 3\obj\Debug\net7.0\ref\Задача 3.dll

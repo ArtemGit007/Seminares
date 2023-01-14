@@ -11,3 +11,5 @@ while(i <= number)
     Console.Write(square + " ");
     i++ ;
 }
+
+

@@ -1,29 +1,18 @@
 ﻿// Напишите программу, которая принимает на вход координаты двух точек 
-//и находит расстояние между ними в 2D пространстве.
-
-// A (3,6); B (2,1) -> 5,09 
-// A (7,-5); B (1,-1) -> 7,21
-
-Console.Write("Введите число: ");
-int a = Convert.ToInt32(Console.ReadLine());
-double del = 0.0;
-if (a >= 100 && a < 1000)
-{
-del = a % 10.0;
-Console.Write("Последняя цифра: " + del);
-}
-else
-{
-Console.Write("Введено не 3-х значное число");
-}
+//и находит расстояние между ними в 2D пространств
 
 
+Console.WriteLine("введите Х-координату 1 точки: ");
+double X1 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("введите Y-координату 1 точки: ");
+double Y1 = Convert.ToInt32(Console.ReadLine());
 
-// Напишите программу, которая выводит случайное число из отрезка 
-//[10, 99] и показывает наибольшую цифру числа.
+Console.WriteLine("введите Х-координату второй точки: ");
+double X2 = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("введите Y-координату 2 точки: ");
+double Y2 = Convert.ToInt32(Console.ReadLine());
 
-//Например:
-// 78 -> 8
-// 12 -> 2
-// 85 -> 8
+// Расстояние
+double rast = Math.Round(Math.Sqrt(Math.Pow(X1 - X2 , 2) + Math.Pow(Y1 - Y2 , 2)), 1);
 
+Console.WriteLine("Расстояние между точками: " + rast);

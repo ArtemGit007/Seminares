@@ -1,0 +1,15 @@
+C:\Users\Артем\OneDrive\Рабочий стол\Семинар 9 С#\Seminares\Семинар 8 C#\Задача 55\bin\Debug\net7.0\Задача 55.exe
+C:\Users\Артем\OneDrive\Рабочий стол\Семинар 9 С#\Seminares\Семинар 8 C#\Задача 55\bin\Debug\net7.0\Задача 55.deps.json
+C:\Users\Артем\OneDrive\Рабочий стол\Семинар 9 С#\Seminares\Семинар 8 C#\Задача 55\bin\Debug\net7.0\Задача 55.runtimeconfig.json
+C:\Users\Артем\OneDrive\Рабочий стол\Семинар 9 С#\Seminares\Семинар 8 C#\Задача 55\bin\Debug\net7.0\Задача 55.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Семинар 9 С#\Seminares\Семинар 8 C#\Задача 55\bin\Debug\net7.0\Задача 55.pdb
+C:\Users\Артем\OneDrive\Рабочий стол\Семинар 9 С#\Seminares\Семинар 8 C#\Задача 55\obj\Debug\net7.0\Задача 55.csproj.AssemblyReference.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Семинар 9 С#\Seminares\Семинар 8 C#\Задача 55\obj\Debug\net7.0\Задача 55.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\OneDrive\Рабочий стол\Семинар 9 С#\Seminares\Семинар 8 C#\Задача 55\obj\Debug\net7.0\Задача 55.AssemblyInfoInputs.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Семинар 9 С#\Seminares\Семинар 8 C#\Задача 55\obj\Debug\net7.0\Задача 55.AssemblyInfo.cs
+C:\Users\Артем\OneDrive\Рабочий стол\Семинар 9 С#\Seminares\Семинар 8 C#\Задача 55\obj\Debug\net7.0\Задача 55.csproj.CoreCompileInputs.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Семинар 9 С#\Seminares\Семинар 8 C#\Задача 55\obj\Debug\net7.0\Задача 55.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Семинар 9 С#\Seminares\Семинар 8 C#\Задача 55\obj\Debug\net7.0\refint\Задача 55.dll
+C:\Users\Артем\OneDrive\Рабочий стол\Семинар 9 С#\Seminares\Семинар 8 C#\Задача 55\obj\Debug\net7.0\Задача 55.pdb
+C:\Users\Артем\OneDrive\Рабочий стол\Семинар 9 С#\Seminares\Семинар 8 C#\Задача 55\obj\Debug\net7.0\Задача 55.genruntimeconfig.cache
+C:\Users\Артем\OneDrive\Рабочий стол\Семинар 9 С#\Seminares\Семинар 8 C#\Задача 55\obj\Debug\net7.0\ref\Задача 55.dll

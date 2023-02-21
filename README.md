@@ -1,3 +1,6 @@
+![GTSAlxetcCA](https://user-images.githubusercontent.com/119147958/220416794-0f3e93a6-443a-42bf-9de6-19dcaff13ef0.jpg)
+
+
 # Семинары 
 
 **Задача 1**  Напишите программу, которая на вход принимает два числа 
